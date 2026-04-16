@@ -6,8 +6,13 @@ import "./globals.css";
 const outfit = Outfit({ subsets: ["latin"], weight: ["400", "500", "600"] });
 
 export const metadata = {
-    title: "GoCart. - Shop smarter",
-    description: "GoCart. - Shop smarter",
+    title: "Touchgram JUST A TOUCH OF ART",
+    description: "Touchgram JUST A TOUCH OF ART",
+    icons: {
+        icon: "/assets/LOGO.jpg",
+        shortcut: "/assets/LOGO.jpg",
+        apple: "/assets/LOGO.jpg",
+    },
 };
 
 export default function RootLayout({ children }) {

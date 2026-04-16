@@ -64,7 +64,7 @@ export const dummyStoreData = {
 export const productDummyData = [
     {
         id: "prod_1",
-        name: "Modern table lamp",
+        name: "Modern ",
         description: "Modern table lamp with a sleek design. It's perfect for any room. It's made of high-quality materials and comes with a lifetime warranty. Enhance your audio experience with this earbuds. Indulge yourself in a world of pure sound with 50 hours of uninterrupted playtime. Equipped with the cutting-edge Zen Mode Tech ENC and BoomX Tech, prepare to be enthralled by a symphony of crystal-clear melodies.",
         mrp: 40,
         price: 29,
@@ -184,7 +184,7 @@ export const productDummyData = [
     },
     {
         id: "prod_9",
-        name: "Apple Wireless Earbuds",
+        name: "boucles d'oreilles",
         description: "Apple Wireless Earbuds with a sleek design. It's perfect for any room. It's made of high-quality materials and comes with a lifetime warranty.",
         mrp: 89,
         price: 29,
@@ -199,7 +199,7 @@ export const productDummyData = [
     },
     {
         id: "prod_10",
-        name: "Apple Smart Watch",
+        name: "boucles d'oreilles",
         description: "Apple Smart Watch with a sleek design. It's perfect for any room. It's made of high-quality materials and comes with a lifetime warranty.",
         mrp: 179,
         price: 29,
